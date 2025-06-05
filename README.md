@@ -1,5 +1,5 @@
 # Unity Final Assignment
-Unity를 이용한 게임 개발(기말과제)
+Unity를 활용한 3D 게임 개발
 
 ## 🎮 숲속 수호 대작전 (Forest Guardian)
 ### 📖 세계관 및 스토리 확장
