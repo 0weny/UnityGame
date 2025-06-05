@@ -8,7 +8,7 @@ Unity를 활용한 3D 게임 개발
 
 이 생명체들은 숲의 생명을 빼앗고 오염시켜 성을 무너뜨리려 하고 있다.
 
-플레이어는 **숲의 수호자 **"Rogue"**가 되어 다양한 무기와 술법을 활용해 이들을 막아야 한다.
+플레이어는 **숲의 수호자 "Rogue"**가 되어 다양한 무기와 술법을 활용해 이들을 막아야 한다.
 
 ---
 
@@ -21,8 +21,12 @@ Unity를 활용한 3D 게임 개발
 ## 사용한 Asset
 https://kaylousberg.itch.io/kaykit-adventurers 
 https://kaylousberg.itch.io/kaykit-medieval-builder-pack
+
+
   
 ![image](https://github.com/user-attachments/assets/ffec8f1e-2f6a-4845-bb1c-2e282d2b2f8f)
+
 ![image](https://github.com/user-attachments/assets/283a4a2e-719f-4e35-a0ee-2bfc6a104699)
+
 ![image](https://github.com/user-attachments/assets/f9cfd042-4c86-4958-881c-fe428adbdfd2)
 
