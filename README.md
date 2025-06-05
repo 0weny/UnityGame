@@ -22,13 +22,7 @@ Unity를 이용한 게임 개발(기말과제)
 https://kaylousberg.itch.io/kaykit-adventurers 
 https://kaylousberg.itch.io/kaykit-medieval-builder-pack
   
-
-  ![image](https://github.com/user-attachments/assets/cb1da0c5-25c2-40d1-bf3b-36e26563c5c1)
-
-
-  ![image](https://github.com/user-attachments/assets/b1618cf2-1238-4cf6-a9ad-6a0b57ba1689)
-
-  ![image](https://github.com/user-attachments/assets/c2513b11-1534-4e2a-a6e9-f1151365fba0)
-
-![image](https://github.com/user-attachments/assets/d136fee6-4ab2-43b5-9f78-68353dca3d11)
+![image](https://github.com/user-attachments/assets/ffec8f1e-2f6a-4845-bb1c-2e282d2b2f8f)
+![image](https://github.com/user-attachments/assets/283a4a2e-719f-4e35-a0ee-2bfc6a104699)
+![image](https://github.com/user-attachments/assets/f9cfd042-4c86-4958-881c-fe428adbdfd2)
 
